@@ -1,7 +1,7 @@
 <main>
 <div class="container-fluid p-5 bg-primary text-white">
   <center><h1 class="display-1">M.D. Walters' Website!</h1></center>
-  <marquee class="h4">Look out for a Svelte rewrite of this website near you!</marquee>
+  <marquee class="h4">I PORTED THIS SITE TO SVELTE!</marquee>
 </div>
 <nav class="navbar navbar-expand-sm bg-light navbar-light shadow-sm">
   <div class="container-fluid">
