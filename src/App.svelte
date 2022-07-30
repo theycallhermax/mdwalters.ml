@@ -1,5 +1,5 @@
 <script>
-  export let motd = "usebottles";
+  export let motd = "<div class="display-1">LOOK, MA! I CAN BORK THE MOTD!</div>";
 </script>
 <main>
 <div class="container-fluid p-5 bg-primary text-white">
