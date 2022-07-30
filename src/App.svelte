@@ -1,7 +1,10 @@
+<script>
+  export let motd = "UwU";
+</script>
 <main>
 <div class="container-fluid p-5 bg-primary text-white">
   <center><h1 class="display-1">M.D. Walters' Website!</h1></center>
-  <marquee class="h4">I PORTED THIS SITE TO SVELTE!</marquee>
+  <marquee class="h4">{motd}</marquee>
 </div>
 <nav class="navbar navbar-expand-sm bg-light navbar-light shadow-sm">
   <div class="container-fluid">
