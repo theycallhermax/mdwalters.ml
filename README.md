@@ -5,7 +5,7 @@ My website, written in Svelte
 cd mdwalters.ml
 npm install
 npm run dev
-xdg-open localhost:8080
+xdg-open http://localhost:8080
 ```
 ## Versioning Requirements
 - If it's a minor change (MOTD change, backend updates), increment the minor version (the third number)
