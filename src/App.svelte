@@ -1,5 +1,5 @@
 <script>
-  export let motd = "<div class="display-1">LOOK, MA! I CAN BORK THE MOTD!</div>";
+  export let motd = "You should see WikiHow memes";
 </script>
 <main>
 <div class="container-fluid p-5 bg-primary text-white">
