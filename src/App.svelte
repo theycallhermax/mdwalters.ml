@@ -1,5 +1,5 @@
 <script>
-  export let motd = "Dear M.D.: How is your website so sexy?";
+  export let motd = "*makes soothing ASMR sounds*";
 </script>
 <main>
 <div class="container-fluid p-5 bg-primary text-white">
