@@ -1,5 +1,5 @@
 <script>
-  export let motd = "UwU";
+  export let motd = "usebottles";
 </script>
 <main>
 <div class="container-fluid p-5 bg-primary text-white">
