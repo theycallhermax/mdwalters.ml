@@ -2,7 +2,7 @@
   export var motd = "🐢";
 </script>
 
-<style≥
+<style>
   @font-face {
     font-family: "Noto Colour Emoji";
     src: url("/fonts/emoji.ttf")
