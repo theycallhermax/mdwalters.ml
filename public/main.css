@@ -1,0 +1,10 @@
+.main-content {
+  margin: 8px;
+}
+@font-face {
+  font-family: "Noto Colour Emoji";
+  src: "/fonts/emoji.ttf";
+}
+body {
+  font-family: "Noto Colour Emoji", sans-serif;
+}
