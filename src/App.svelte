@@ -2,18 +2,6 @@
   export var motd = "🐢";
 </script>
 
-<style>
-  @font-face {
-    font-family: "Noto Color Emoji";
-    src: url("./fonts/emoji.ttf")
-    format("truetype");
-  }
-
-  main {
-    font-family: "Noto Color Emoji";
-  }
-</style>
-
 <main>
   <div class="container-fluid p-5 bg-primary text-white">
     <center><h1 class="display-1">M.D. Walters' Website!</h1></center>
