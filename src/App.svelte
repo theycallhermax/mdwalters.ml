@@ -1,5 +1,5 @@
 <script>
-  export var motd = "Fun Fact: This website was written in Svelte";
+  export var motd = "The Hacker's Keyboard is awesome";
 </script>
 <main>
   <div class="container-fluid p-5 bg-primary text-white">
