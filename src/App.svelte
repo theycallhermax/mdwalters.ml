@@ -1,6 +1,5 @@
 <script>
   export var motd = "🐢";
-  twemoji.parse(document.body);
 </script>
 <main>
   <div class="container-fluid p-5 bg-primary text-white">
