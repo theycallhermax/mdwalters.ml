@@ -1,5 +1,5 @@
 <script>
-  export var motd = "useflatpak";
+  export var motd = "Fun Fact: This website was written in Svelte";
 </script>
 <main>
   <div class="container-fluid p-5 bg-primary text-white">
