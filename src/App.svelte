@@ -4,13 +4,13 @@
 
 <style>
   @font-face {
-    font-family: "Noto Colour Emoji";
+    font-family: "Noto Color Emoji";
     src: url("/fonts/emoji.ttf")
     format("truetype");
   }
 
   main {
-    font-family: "Noto Colour Emoji";
+    font-family: "Noto Color Emoji";
   }
 </style>
 
