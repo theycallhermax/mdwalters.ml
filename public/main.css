@@ -4,7 +4,8 @@
 
 @font-face {
   font-family: "Noto Colour Emoji";
-  src: "/fonts/emoji.ttf";
+  src: url("/fonts/emoji.ttf")
+  format("truetype");
 }
 
 body {
