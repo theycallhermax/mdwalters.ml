@@ -6,7 +6,7 @@
     <center><h1 class="display-1">M.D. Walters' Website!</h1></center>
     <marquee class="h4">{motd}</marquee>
   </div>
-  <nav class="navbar navbar-expand-sm bg-light navbar-light shadow-sm text-wrap fs-5">
+  <nav class="navbar navbar-expand-sm bg-light navbar-light shadow-sm text-wrap">
     <div class="container-fluid">
       <ul class="navbar-nav">
         <li class="nav-item">
