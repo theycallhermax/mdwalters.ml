@@ -1,5 +1,5 @@
 <script>
-  export var motd = "*makes soothing ASMR sounds*";
+  export var motd = "Material Design is Pain";
 </script>
 <main>
 <div class="container-fluid p-5 bg-primary text-white">
