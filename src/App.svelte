@@ -1,5 +1,5 @@
 <script>
-  export var motd = "The Hacker's Keyboard is awesome";
+  export var motd = "🐢";
 </script>
 <main>
   <div class="container-fluid p-5 bg-primary text-white">
