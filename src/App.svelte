@@ -1,5 +1,5 @@
 <script>
-  export var motd = "🐢";
+  export var motd = "I'm in front of a blue background!";
 </script>
 
 <main>
