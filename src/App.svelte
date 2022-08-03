@@ -1,5 +1,5 @@
 <script>
-  export var motd = "Never gonna give you up, never gonna let you down, never gonna turn around and desert you";
+  export var motd = "M.D. is on lunch break.";
 </script>
 
 <main>
