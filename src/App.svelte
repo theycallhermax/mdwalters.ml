@@ -1,5 +1,5 @@
 <script>
-  export var motd = "M.D. is on lunch break.";
+  export var motd = "IT'S MY BIRTHDAY NOW GO PUT ON YOUR FURSUITS AND SING HAPPY BIRTHDAY IN UWU LANGUAGE";
 </script>
 
 <main>
