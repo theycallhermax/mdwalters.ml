@@ -1,5 +1,5 @@
 <script>
-  export var motd = "IT'S MY BIRTHDAY NOW GO PUT ON YOUR FURSUITS AND SING HAPPY BIRTHDAY IN UWU LANGUAGE";
+  export var motd = "If you hate furries, clap your hands";
 </script>
 
 <main>
