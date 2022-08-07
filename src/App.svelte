@@ -1,5 +1,5 @@
 <script>
-  export var motd = "If you hate furries, clap your hands";
+  export var motd = "No more typos today, Hacker's Keyboard!";
 </script>
 
 <main>
