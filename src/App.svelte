@@ -1,5 +1,5 @@
 <script>
-  export var motd = "No more typos today, Hacker's Keyboard!";
+  export var motd = "At school";
 </script>
 
 <main>
