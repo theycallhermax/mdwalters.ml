@@ -2,7 +2,7 @@
   import Header from './Header.svelte';
   import SocialBar from './SocialBar.svelte';
 
-  export var motd = "At school";
+  export var motd = "Backend changes!";
 </script>
 
 <main>
