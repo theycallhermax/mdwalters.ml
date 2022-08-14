@@ -1,14 +1,14 @@
-<nav class="navbar navbar-expand-sm bg-light navbar-light shadow-sm text-wrap fs-5">
+<nav class="navbar navbar-expand-sm bg-light navbar-light shadow-sm fs-5">
    <div class="container-fluid">
       <ul class="navbar-nav">
         <li class="nav-item">
           <a class="nav-link" href="https://github.com/mdwalters"><i class="bi bi-github" title="GitHub"></i></a>
         </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://twitter.com/MDWalters124"><i class="bi bi-twitter" title="Twitter"></i></a>
+        <li class="nav-item">
+          <a class="nav-link" href="https://twitter.com/MDWalters124"><i class="bi bi-twitter" title="Twitter"></i></a>
         </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://deviantart.com/mdwalters"><i class="bi bi-brush-fill" title="DeviantArt"></i></a>
+        <li class="nav-item">
+          <a class="nav-link" href="https://deviantart.com/mdwalters"><i class="bi bi-brush-fill" title="DeviantArt"></i></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://imood.com/users/pancake"><i class="bi bi-emoji-smile-fill" title="Imood"></i></a>
