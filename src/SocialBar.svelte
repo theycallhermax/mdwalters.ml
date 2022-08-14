@@ -2,7 +2,7 @@
    <div class="container-fluid">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="https://github.com/Mwalters75"><i class="bi bi-github" title="GitHub"></i></a>
+          <a class="nav-link" href="https://github.com/mdwalters"><i class="bi bi-github" title="GitHub"></i></a>
         </li>
           <li class="nav-item">
             <a class="nav-link" href="https://twitter.com/MDWalters124"><i class="bi bi-twitter" title="Twitter"></i></a>
