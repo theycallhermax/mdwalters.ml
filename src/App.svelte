@@ -2,7 +2,7 @@
   import Header from './Header.svelte';
   import SocialBar from './SocialBar.svelte';
 
-  export var motd = "Backend changes!";
+  export var motd = "Finally got Statusflare to work";
 </script>
 
 <main>
