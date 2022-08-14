@@ -21,7 +21,10 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://youtube.com/channel/UCnAOoxdT4-oCuESfNHK3HXQ"><i class="bi bi-youtube" title="YouTube"></i></a>
-      </li>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://mdwalters.statusflare.app/"><i class="bi bi-activity" title="Statusflare"></i></a>
+        </li> 
     </ul>
   </div>
 </nav>
