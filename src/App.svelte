@@ -1,6 +1,6 @@
 <script>
-  import Header from "Header.svelte";
-  import SocialBar from "SocialBar.svelte";
+  import Header from "./Header.svelte";
+  import SocialBar from "./SocialBar.svelte";
 
   export var motd = "At school";
 </script>
