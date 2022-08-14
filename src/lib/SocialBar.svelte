@@ -24,7 +24,10 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://mdwalters.statusflare.app/"><i class="bi bi-activity" title="Statusflare"></i></a>
-        </li> 
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="mailto:mail@mdwalters.ml"><i class="bi bi-envelope" title="Email"></i></a>
+        </li>
     </ul>
   </div>
 </nav>
