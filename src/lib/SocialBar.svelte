@@ -26,7 +26,7 @@
           <a class="nav-link" href="https://mdwalters.statusflare.app/"><i class="bi bi-activity" title="Statusflare"></i></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="mailto:mail@mdwalters.ml"><i class="bi bi-envelope" title="Email"></i></a>
+          <a class="nav-link" href="mailto:mail@mdwalters.ml"><i class="bi bi-envelope-fill" title="Email"></i></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://github.com/mdwalters/mdwalters.ml/issues/new"><i class="bi bi-bug-fill" title="Report Bug"></i></a>
