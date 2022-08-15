@@ -6,7 +6,7 @@
 </script>
 
 <main>
-  </Header motd={motd}>
+  <Header motd={motd}/>
   </SocialBar>
   <div class="main-content">
     <h2>About</h2>
