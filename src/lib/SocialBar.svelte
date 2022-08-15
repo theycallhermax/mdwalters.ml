@@ -29,7 +29,7 @@
           <a class="nav-link" href="mailto:mail@mdwalters.ml"><i class="bi bi-envelope" title="Email"></i></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://github.com/mdwalters/mdwalters.ml/issues/new"><i class="bi bi-bug" title="Report Bug"></i></a>
+          <a class="nav-link" href="https://github.com/mdwalters/mdwalters.ml/issues/new"><i class="bi bi-bug-fill" title="Report Bug"></i></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://discord.gg/uJfQXKJvJK"><i class="bi bi-discord" title="Discord"></i></a>
