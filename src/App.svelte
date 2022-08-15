@@ -1,7 +1,6 @@
 <script>
   import Header from './lib/Header.svelte';
   import SocialBar from './lib/SocialBar.svelte';
-  import Container from './lib/Container.svelte';
 
   export var motd = "Finally got Statusflare to work";
 </script>
