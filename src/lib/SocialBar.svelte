@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-sm bg-light navbar-light shadow-sm fs-5">
+<nav class="navbar navbar-expand-sm bg-light navbar-light shadow-sm fs-4">
    <div class="container-fluid">
       <ul class="navbar-nav">
         <li class="nav-item">
@@ -27,6 +27,12 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="mailto:mail@mdwalters.ml"><i class="bi bi-envelope" title="Email"></i></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://github.com/mdwalters/mdwalters.ml/issues/new"><i class="bi bi-bug" title="Report Bug"></i></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://discord.gg/uJfQXKJvJK"><i class="bi bi-discord" title="Discord"></i></a>
         </li>
     </ul>
   </div>
