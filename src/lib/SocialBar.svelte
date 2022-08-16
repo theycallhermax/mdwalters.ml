@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-sm bg-light navbar-light shadow-sm fs-4">
    <div class="container-fluid">
-      <ul class="navbar-nav">
+      <ul class="navbar-nav justify-content-center">
         <li class="nav-item">
           <a class="nav-link" href="https://github.com/mdwalters"><i class="bi bi-github" title="GitHub"></i></a>
         </li>
