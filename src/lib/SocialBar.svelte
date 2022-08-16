@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-sm bg-light navbar-light shadow-sm fs-4">
+<nav class="navbar navbar-expand-sm bg-light navbar-light shadow-sm fs-4" style='text-align: center;'>
    <div class="container-fluid">
       <ul class="navbar-nav">
         <li class="nav-item">
