@@ -2,7 +2,7 @@
   import Header from './lib/Header.svelte';
   import SocialBar from './lib/SocialBar.svelte';
 
-  export var motd = "This is my website, go get your own >:(";
+  export var motd = "The Hacker's Keyboard is growing on me";
 </script>
 
 <main>
