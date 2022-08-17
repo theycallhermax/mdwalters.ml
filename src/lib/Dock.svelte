@@ -44,8 +44,7 @@
     </ul>
   </div>
 </nav>
-<br>
-<div class="collapse" id="motd">
+<div class="container collapse" id="motd">
   <div class="card card-body">
     <h4>{motd}</h4>
   </div>
