@@ -4,6 +4,7 @@
 
 <nav class="navbar navbar-expand-sm fs-4">
    <div class="container bg-primary bg-gradient shadow rounded text-wrap">
+      <marquee class="h4"><i class="bi bi-lightbulb-fill"></i> {motd}</marquee>
       <ul class="navbar-nav">
         <li class="nav-item">
           <a class="nav-link" href="https://github.com/mdwalters"><i class="bi bi-github" title="GitHub"></i></a>
@@ -39,7 +40,5 @@
           <a class="nav-link" href="https://discord.gg/uJfQXKJvJK"><i class="bi bi-discord" title="Discord"></i></a>
         </li>
     </ul>
-    <br>
-    <marquee class="h4"><i class="bi bi-lightbulb-fill"></i> {motd}</marquee>
   </div>
 </nav>
