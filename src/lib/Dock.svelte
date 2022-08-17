@@ -39,6 +39,7 @@
           <a class="nav-link" href="https://discord.gg/uJfQXKJvJK"><i class="bi bi-discord" title="Discord"></i></a>
         </li>
     </ul>
+    <br>
     <marquee class="h4"><i class="bi bi-lightbulb-fill"></i> {motd}</marquee>
   </div>
 </nav>
