@@ -2,8 +2,6 @@
    export var motd;
 </script>
 
-<marquee class="h4"><i class="bi bi-lightbulb-fill"></i> {motd}</marquee>
-
 <nav class="navbar navbar-expand-sm fs-4">
    <div class="container bg-primary bg-gradient shadow rounded text-wrap fixed-top">
       <ul class="navbar-nav">
@@ -42,4 +40,5 @@
         </li>
     </ul>
   </div>
+  <marquee class="h4"><i class="bi bi-lightbulb-fill"></i> {motd}</marquee>
 </nav>
