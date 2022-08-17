@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-sm fs-4">
-   <div class="container bg-dark bg-gradient shadow rounded">
-      <ul class="navbar-nav text-white">
+   <div class="container bg-primary bg-gradient shadow rounded">
+      <ul class="navbar-nav">
         <li class="nav-item">
           <a class="nav-link" href="https://github.com/mdwalters"><i class="bi bi-github" title="GitHub"></i></a>
         </li>
