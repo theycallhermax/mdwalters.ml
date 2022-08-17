@@ -8,8 +8,8 @@
 <main>
   <Header motd={motd}/>
   <SocialBar/>
-  <div class="container-fluid m-3">
+  <div class="container">
     <h2>About</h2>
-    <p>Hi, I'm M.D.! You may know me as MDWalters, MDWalters124, pancake, or pancake_flipper, but yep, they're all me. Most of the stuff I make are useless, but hey, people actually like them!</p>
+    <p>Hi, I'm M.D.! Most of the stuff I make are useless, but hey, people actually like them!</p>
   </div>
 </main>
