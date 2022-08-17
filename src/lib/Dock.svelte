@@ -2,6 +2,8 @@
    export var motd;
 </script>
 
+<marquee class="h4"><i class="bi bi-lightbulb-fill"></i> {motd}</marquee>
+
 <nav class="navbar navbar-expand-sm fs-4">
    <div class="container bg-primary bg-gradient shadow rounded text-wrap fixed-top">
       <ul class="navbar-nav">
@@ -38,17 +40,6 @@
         <li class="nav-item">
           <a class="nav-link" href="https://discord.gg/uJfQXKJvJK"><i class="bi bi-discord" title="Discord"></i></a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#motd" data-bs-toggle="collapse"><i class="bi bi-lightbulb-fill" title="MOTD"></i></a>
-        </li>
     </ul>
   </div>
 </nav>
-<div class="container collapse" id="motd">
-  <div class="card card-body">
-    <h4>{motd}</h4>
-  </div>
-</div>
-<!--
-<marquee class="h4"><i class="bi bi-lightbulb-fill"></i> {motd}</marquee>
--->
