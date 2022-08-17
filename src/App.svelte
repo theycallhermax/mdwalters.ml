@@ -8,8 +8,8 @@
 <main>
   <Header motd={motd}/>
   <SocialBar/>
-  <div class="container m-3">
+  <div class="container m-3 bg-warning">
     <h2>About</h2>
-    <p>Hi, I'm M.D.! Most of the stuff I make are useless, but hey, people actually like them!</p>
+    <p>Hey, I'm M.D.! I code stuff that goes into the trash burner when I'm finished coding it, but I code anyway.</p>
   </div>
 </main>
