@@ -40,5 +40,6 @@
         </li>
     </ul>
   </div>
+  <br>
   <marquee class="h4"><i class="bi bi-lightbulb-fill"></i> {motd}</marquee>
 </nav>
