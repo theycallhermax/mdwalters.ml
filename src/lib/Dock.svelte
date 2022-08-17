@@ -38,8 +38,18 @@
         <li class="nav-item">
           <a class="nav-link" href="https://discord.gg/uJfQXKJvJK"><i class="bi bi-discord" title="Discord"></i></a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#motd" data-bs-toggle="collapse"><i class="bi bi-lightbulb-fill" title="MOTD"></i></a>
+        </li>
     </ul>
   </div>
 </nav>
-
+<br>
+<div class="collapse" id="motd">
+  <div class="card card-body">
+    <h4>{motd}</h4>
+  </div>
+</div>
+<!--
 <marquee class="h4"><i class="bi bi-lightbulb-fill"></i> {motd}</marquee>
+-->
