@@ -8,7 +8,7 @@
 <main>
   <Header motd={motd}/>
   <SocialBar/>
-  <div class="container">
+  <div class="container m-3">
     <h2>About</h2>
     <p>Hi, I'm M.D.! Most of the stuff I make are useless, but hey, people actually like them!</p>
   </div>
