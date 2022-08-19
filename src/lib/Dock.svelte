@@ -1,9 +1,5 @@
-<script>
-   export var motd;
-</script>
-
-<nav class="navbar navbar-expand-sm fs-4">
-   <div class="container bg-primary bg-gradient shadow rounded text-wrap">
+<nav class="navbar navbar-expand-sm bg-light navbar-light shadow-sm fs-4">
+   <div class="container-fluid">
       <ul class="navbar-nav">
         <li class="nav-item">
           <a class="nav-link" href="https://github.com/mdwalters"><i class="bi bi-github" title="GitHub"></i></a>
