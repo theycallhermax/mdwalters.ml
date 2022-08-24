@@ -3,7 +3,7 @@
   import SocialBar from './lib/SocialBar.svelte';
   import Content from './lib/Content.svelte';
 
-  export var motd = "Notice the design revert?";
+  export var motd = "Sectionz";
 </script>
 
 <main>
