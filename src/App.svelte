@@ -3,7 +3,7 @@
   import SocialBar from './lib/SocialBar.svelte';
   import Content from './lib/Content.svelte';
 
-  export var motd = "Sectionz";
+  export var motd = "Cantarell";
 </script>
 
 <main>
