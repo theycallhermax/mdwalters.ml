@@ -7,7 +7,7 @@
   <h2>Projects <small>what i'm currently working on</small></h2>
   <div class="list-group">
     <li class="list-group-item"><a href="https://github.com/mdwalters/Meower-TUI">Meower TUI</a> <small>a simple, clean meower client</small></li>
-    <li class="list-group-item"><a href="https://github.com/mdwalters/TurboFoolishness">TurboFoolishness</a> <small>i forgot it's tagline</small>
+    <li class="list-group-item"><a href="https://github.com/mdwalters/TurboFoolishness">TurboFoolishness</a> <small>the developer's code companion</small>
   </div>  
 </div>
 
