@@ -14,7 +14,7 @@
           <a class="nav-link" href="https://imood.com/users/pancake"><i class="bi bi-emoji-smile-fill" title="Imood"></i></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://mdwalterscreations.wordpress.com/author/mdwalters124/"><i class="bi bi-wordpress" title="Blog"></i></a>
+          <a class="nav-link" href="https://mdwalters.github.io/blog/"><i class="bi bi-wordpress" title="Blog"></i></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://reddit.com/user/pancakeflipper124/"><i class="bi bi-reddit" title="Reddit"></i></a>
@@ -33,6 +33,9 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://discord.gg/uJfQXKJvJK"><i class="bi bi-discord" title="Discord"></i></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://mdwalters.github.io/blog/feed.xml"><i class="bi bi-rss-fill" title="RSS"></i></a>
         </li>
     </ul>
   </div>
