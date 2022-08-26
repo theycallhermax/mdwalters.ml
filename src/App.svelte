@@ -3,7 +3,7 @@
   import SocialBar from './lib/SocialBar.svelte';
   import Content from './lib/Content.svelte';
 
-  export var motd = "Cantarell";
+  export var motd = "Fuck Eris";
 </script>
 
 <main>
