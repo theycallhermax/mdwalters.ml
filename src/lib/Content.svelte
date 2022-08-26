@@ -17,3 +17,10 @@
     <li class="list-group-item"><a href="https://meower.org/">Meower</a> <small>a open-source social media</small></li>
   </div>  
 </div>
+
+<div class="container m-3">
+  <h2>Stickers <small>the cool stuff</small></h2>
+  <span class="text-wrap">
+    <img src="https://www.cutercounter.com/hits.php?id=humxfkcnk&nd=6&style=80" border="0" alt="website counter">
+  </span>
+</div>
