@@ -8,6 +8,7 @@
   <div class="list-group">
     <li class="list-group-item"><a href="https://github.com/mdwalters/Meower-TUI">Meower TUI</a> <small>a simple, clean meower client</small></li>
     <li class="list-group-item"><a href="https://github.com/mdwalters/TurboFoolishness">TurboFoolishness</a> <small>the developer's code companion</small>
+    <li class="list-group-item"><a href="https://github.com/mdwalters/meower.py">libmeower</a> <small>meower api client written in python</small>
   </div>  
 </div>
 
