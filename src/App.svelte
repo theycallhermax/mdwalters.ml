@@ -3,11 +3,11 @@
   import SocialBar from './lib/SocialBar.svelte';
   import Content from './lib/Content.svelte';
 
-  export var motd = "As of September 16, 2022, the MOTD was last updated 14 days ago";
+  export var motd = ["Never gonna give you up", "Hello world!"];
 </script>
 
 <main>
-  <Header motd={motd}/>
+  <Header motd={motd[Math.floor(Math.random() * eightBall.length)]}/>
   <SocialBar/>
   <Content/>
 </main>
