@@ -3,7 +3,7 @@
   import SocialBar from './lib/SocialBar.svelte';
   import Content from './lib/Content.svelte';
 
-  export var motd = "Never gonna give you up";
+  export var motd = "Eight Ball coming to a Flathub near you!";
 </script>
 
 <main>
