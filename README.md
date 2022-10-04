@@ -1,2 +1,0 @@
-# mdwalters.ml
-My website
