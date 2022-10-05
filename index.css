@@ -5,5 +5,27 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .display-1, .display-2, .d
   font-weight: bold;
 }
 small {
-  color: grey;
+  color: lightgrey;
+}
+
+@media (prefers-color-scheme: dark) {
+  .dark-light, #dark-light {
+    background-color: black;
+    color: white;
+  }
+
+  small {
+    color: lightgrey;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .dark-light, #dark-light {
+    background-color: white;
+    color: black;
+  }
+
+  small {
+    color: grey;
+  }
 }
