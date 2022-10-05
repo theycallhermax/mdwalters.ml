@@ -1,20 +1,10 @@
 body {
   font-family: 'Cantarell', sans-serif;
 }
+
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .display-1, .display-2, .display-3, .display-4, .display-5, .display-6 {
   font-weight: bold;
 }
 small {
-  color: lightgrey;
-}
-
-@media (prefers-color-scheme: dark) {
-  .dark-light {
-    background-color: black;
-    color: white;
-  }
-
-  small {
-    color: lightgrey;
-  }
+  color: grey;
 }
