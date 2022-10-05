@@ -9,23 +9,12 @@ small {
 }
 
 @media (prefers-color-scheme: dark) {
-  .dark-light, #dark-light {
+  .dark-light {
     background-color: black;
     color: white;
   }
 
   small {
     color: lightgrey;
-  }
-}
-
-@media (prefers-color-scheme: light) {
-  .dark-light, #dark-light {
-    background-color: white;
-    color: black;
-  }
-
-  small {
-    color: grey;
   }
 }
