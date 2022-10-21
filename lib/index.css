@@ -30,3 +30,7 @@ small {
     color: lightgrey;
   }
 }
+
+.center {
+  text-align: center;
+}
