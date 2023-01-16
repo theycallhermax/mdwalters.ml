@@ -22,6 +22,7 @@ small {
 
     small {
         color: lightgrey;
+        font-weight: 400;
     }
 }
 
@@ -33,5 +34,6 @@ small {
 
     small {
         color: grey;
+        font-weight: 400;
     }
 }
