@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@600;900&display=swap");
 
 body {
     font-family: "Work Sans", sans-serif;
@@ -22,7 +22,6 @@ small {
 
     small {
         color: lightgrey;
-        font-weight: 400;
     }
 }
 
@@ -34,6 +33,5 @@ small {
 
     small {
         color: grey;
-        font-weight: 400;
     }
 }
