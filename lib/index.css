@@ -14,7 +14,7 @@ small {
 }
 
 @media (prefers-color-scheme: dark) {
-    .background {
+    body {
         background-color: var(--bs-dark);
         color: var(--bs-light);
     }
@@ -25,7 +25,7 @@ small {
 }
 
 @media (prefers-color-scheme: light) {
-    .background {
+    body {
         background-color: var(--bs-light);
         color: var(--bs-dark);;
     }
