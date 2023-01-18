@@ -23,7 +23,7 @@ small {
         color: lightgrey;
     }
 
-    .container-fluid-bg {
+    .background {
         background-color: var(--bs-primary-bg-subtle);
     }
 }
@@ -38,7 +38,7 @@ small {
         color: grey;
     }
 
-    .container-fluid-bg {
+    .background {
         background-color: var(--bg-primary);
     }
 }
