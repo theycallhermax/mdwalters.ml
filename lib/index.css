@@ -22,10 +22,6 @@ small {
     small {
         color: lightgrey;
     }
-
-    .background {
-        background-color: rgba(var(--bs-primary-bg-subtle));
-    }
 }
 
 @media (prefers-color-scheme: light) {
@@ -36,9 +32,5 @@ small {
 
     small {
         color: grey;
-    }
-
-    .background {
-        background-color: rgba(var(--bs-primary-rgb));
     }
 }
