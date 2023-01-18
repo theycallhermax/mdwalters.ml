@@ -24,7 +24,7 @@ small {
     }
 
     .background {
-        background-color: var(--bs-primary-bg-subtle);
+        background-color: rgba(var(--bs-primary-bg-subtle));
     }
 }
 
@@ -39,6 +39,6 @@ small {
     }
 
     .background {
-        background-color: var(--bs-primary);
+        background-color: rgba(var(--bs-primary-rgb));
     }
 }
