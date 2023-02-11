@@ -1,5 +1,7 @@
 <script setup lang="ts">
-    export let fullscreen: boolean;
+    import { ref } from "vue";
+
+    const path = ref(window.location.pathname);
 </script>
 
 <template>
@@ -15,5 +17,12 @@
             <a href="https://tiktok.com/@mdwaltersthefurry" class="link-light text-center"><i class="bi bi-tiktok"></i></a>
             <a href="https://reddit.com/u/pancakeflipper124" class="link-light text-center"><i  class="bi bi-reddit"></i></a>
         </h2>
+        <div class="hstack gap-2 justify-content-center">
+        <button v-if='path == "/"' class="btn btn-lg btn-secondary" disabled>Home</button>
+        <a v-else href="/" class="btn btn-lg btn-secondary">Home</a>
+
+        <button v-if='path == "/projects"' class="btn btn-lg btn-secondary" disabled>Projects</button>
+        <a v-else href="/projects" class="btn btn-lg btn-secondary">Projects</a>
+    </div>
     </div>
 </template>
